@@ -17,7 +17,7 @@
 
 👨‍💻 Mais informações veja meu [portfolio](https://agenciajonasborges.com)
 
-📚 Atualmente estou estudando a <b>[Trilha Discover](https://www.rocketseat.com.br/discover)</b> na [Rocketseat](https://rocketseat.com.br). O próximo passo será o <b>[Ignite-Rockeseat.](https://lp.rocketseat.com.br/ignite)</b> Onde vou me especializar em: 
+📚 Atualmente estou estudando a <b>[Trilha Discover](https://www.rocketseat.com.br/discover)</b> na [Rocketseat](https://rocketseat.com.br). O próximo passo será o <b>[Ignite-Rockeseat.](https://lp.rocketseat.com.br/ignite)</b> Onde vou me especiliazar nas tecnologias: 
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
