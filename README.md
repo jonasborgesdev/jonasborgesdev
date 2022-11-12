@@ -1,29 +1,29 @@
 
 <h1>
-    Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Jonas Borges.
+    Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </h1>
 <p> 
     <img src="https://komarev.com/ghpvc/?username=jonasborges93&color=blue" alt="Visitas no perfil" />
 </p>
 
 ## 🙋‍♂️ &nbsp;A Little About Me
-- 🔥 Empreendedor que gosta de transformar problemas complexos em projetos simples, bonitos e intuitivos.
+🔥 Empreendedor que gosta de transformar problemas complexos em projetos simples, bonitos e intuitivos.
 
-- 🔭 Atualmente trabalho de forma autônoma como <b>Web Designer</b> na [Agência Jonas Borges](https://agenciajonasborges.com), utilizando algumas ferramentas como:
-<br>
+🔭 Atualmente trabalho de forma autônoma como <b>Web Designer</b> na [Agência Jonas Borges](https://agenciajonasborges.com), utilizando algumas ferramentas como:
+
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Elementor](https://img.shields.io/badge/-Elementor-05122A?style=flat&logo=elementor)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-- 👨‍💻 Mais informações veja meu [portfolio](https://agenciajonasborges.com)
+👨‍💻 Mais informações veja meu [portfolio](https://agenciajonasborges.com)
 
-- 📚 Atualmente estou estudando a <b>[Trilha Discover](https://www.rocketseat.com.br/discover)</b> na [Rocketseat](https://rocketseat.com.br). O próximo passo será o <b>[Ignite-Rockeseat.](https://lp.rocketseat.com.br/ignite)</b> Onde vou me especializar em: 
-<br>
+📚 Atualmente estou estudando a <b>[Trilha Discover](https://www.rocketseat.com.br/discover)</b> na [Rocketseat](https://rocketseat.com.br). O próximo passo será o <b>[Ignite-Rockeseat.](https://lp.rocketseat.com.br/ignite)</b> Onde vou me especializar em: 
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
-- ⚡ Quando não estou codificando ou desenhando telas, você me encontrará consumindo tecnologia e conteúdos automotivos.
+⚡ Quando não estou codificando ou desenhando telas, você me encontrará consumindo tecnologia e conteúdos automotivos.
 
 <br>
 
