@@ -1,6 +1,6 @@
 
 <h1>
-    Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+    Olá ✌
 </h1>
 <p> 
     <img src="https://komarev.com/ghpvc/?username=jonasborges93&color=blue" alt="Visitas no perfil" />
