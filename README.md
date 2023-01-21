@@ -7,7 +7,7 @@
 </p>
 
 ## 🙋‍♂️ &nbsp;A Little About Me
-🔥 Empreendedor que gosta de transformar problemas complexos em projetos simples, bonitos e intuitivos.
+🔥 Desenvolvedor Front End apaixonado por tecnologia, que gosta de transformar problemas complexos em projetos simples, bonitos e intuitivos, com especialização em ReactJS e mais de 5 (cinco) anos de experiência com desenvolvimento web. Acredito que a tecnologia é o presente e o futuro das novas soluções de mercado.
 
 🔭 Atualmente trabalho de forma autônoma como <b>Web Designer</b> na [Agência Jonas Borges](https://agenciajonasborges.com), utilizando algumas ferramentas como:
 
@@ -15,15 +15,15 @@
 ![Elementor](https://img.shields.io/badge/-Elementor-05122A?style=flat&logo=elementor)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-👨‍💻 Mais informações veja meu [portfolio](https://agenciajonasborges.com)
+👨‍💻 Mais informações veja meu [portfolio](https://jonasborges.netlify.app/)
 
-📚 Atualmente estou estudando a <b>[Trilha Discover](https://www.rocketseat.com.br/discover)</b> na [Rocketseat](https://rocketseat.com.br). O próximo passo será o <b>[Ignite-Rockeseat.](https://lp.rocketseat.com.br/ignite)</b> Onde vou me especiliazar nas tecnologias: 
+📚 Atualmente estou estudando a <b>[Trilha Ignite.](https://lp.rocketseat.com.br/ignite)</b> na [Rocketseat](https://rocketseat.com.br). Onde vou me especiliazar nas tecnologias: 
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
-⚡ Quando não estou codificando ou desenhando telas, você me encontrará consumindo tecnologia e conteúdos automotivos.
+⚡ No meu tempo livre, gosto de consumir e vivenciar a cultura automotiva, provavelmente me encontrará em alguma oficina mecânica ou em um postinho.
 
 <br>
 
@@ -49,7 +49,7 @@
 <a href="https://linkedin.com/in/jonasborges93" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jonasborges93-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/agenciajonasborges" target="_blank">
+<a href="https://www.instagram.com/jonas.borges93" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-agenciajonasborges-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5524999660042" target="_blank">
