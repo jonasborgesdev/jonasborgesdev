@@ -50,7 +50,7 @@
   <img align="center" src="https://img.shields.io/badge/-jonasborges93-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/jonas.borges93" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-agenciajonasborges-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-jonas.borges93-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5524999660042" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp" alt="instagram"/>
