@@ -1,6 +1,6 @@
 # Jonas Borges 
 
-Desenvolvedor Front End - HTML | CSS | JavaScript | React | TypeScript
+Web Designer | Desenvolvedor Front-End | Wordpress | Elementor
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasborges93/)](https://www.linkedin.com/in/jonasborges93/)
 [![Gmail Badge](https://img.shields.io/badge/-jonas.bgs93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonas.bgs93@gmail.com)](mailto:jonas.bgs93@gmail.com)
