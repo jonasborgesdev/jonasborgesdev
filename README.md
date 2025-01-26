@@ -2,9 +2,9 @@
 
 Web Designer | Desenvolvedor Front-End | Wordpress | Elementor
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasborges93/)](https://www.linkedin.com/in/jonasborges93/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas%20Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasborgesdev/)](https://www.linkedin.com/in/jonasborgesdev/)
 [![Gmail Badge](https://img.shields.io/badge/-jonas.bgs93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonas.bgs93@gmail.com)](mailto:jonas.bgs93@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@jonas.borges93-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonas.borges93/)](https://www.instagram.com/jonas.borges93/)
+[![Instagram Badge](https://img.shields.io/badge/-@jonas.borges93-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonasborges_dev/)](https://www.instagram.com/jonasborges_dev/)
 
 ---
 🔥 Web Designer e Desenvolvedor Front-End apaixonado por tecnologia, especializado em transformar problemas complexos em projetos simples, bonitos e intuitivos. 
